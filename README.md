@@ -1,7 +1,9 @@
 # mzi-top50-books
 MZI sir published his 50 favorite book list. It's little hard to keep track of books on a blog post, So here I created a repo with checkboxes. Source: https://kaanpeteroi.blogspot.com/2020/05/blog-post.html
 
-NB: This list is not in sorted order. 
+NB: This list is not in sorted order.
+
+If you want the basic version without my checked list, checkout the [v1.0.0](https://github.com/shibli049/mzi-top50-books/tree/v1.0.0) tag. 
 
 ## উপন্যাস
 - [ ]  East of Eden : John Steinbeck
