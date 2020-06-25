@@ -3,7 +3,6 @@ MZI sir published his 50 favorite book list. It's little hard to keep track of b
 
 NB: This list is not in sorted order.
 
-If you want the basic version without my checked list, checkout the [v1.0.0](https://github.com/shibli049/mzi-top50-books/tree/v1.0.0) tag. 
 
 ## উপন্যাস
 - [ ]  East of Eden : John Steinbeck
