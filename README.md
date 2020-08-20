@@ -11,7 +11,7 @@ Checkout the base branch for this list without my checkmarks.
 - [ ]  For Whom the Bell Tolls : Ernest Hemingway
 - [ ]  Three Comrades : Erich Maria Remarque
 - [ ]  কবি : তারাশঙ্কর বন্দ্যোপাধ্যায়
-- [ ]  পথের পাঁচালি : বিভূতিভূষণ বন্দ্যোপাধ্যায়
+- [x]  পথের পাঁচালি : বিভূতিভূষণ বন্দ্যোপাধ্যায়
 - [x]  পদ্মা নদীর মাঝি : মানিক বন্দ্যোপাধ্যায়
 - [ ]  পথের দাবী : শরৎচন্দ্র চট্টোপাধ্যায়
 - [ ]  Three man in the boat : Jerome K. Jerome
@@ -19,7 +19,7 @@ Checkout the base branch for this list without my checkmarks.
 - [ ]  My Universities : Maxim Gorky
 - [ ]  তিথিডোর : বুদ্ধদেব বসু 
 - [ ]  Vagabonds : Knut Hamsun
-- [ ]  The Adventures of Tom Sawyer : Mark Twain
+- [x]  The Adventures of Tom Sawyer : Mark Twain
 - [ ]  The Tin Drum : Gunter Grass
 - [ ]  লাল গোলাপ : সৈয়দ শামসুল হক
 - [x]  প্রদোষে প্রাকৃত জন : শওকত আলী
